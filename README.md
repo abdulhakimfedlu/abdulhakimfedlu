@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfoilio-website.vercel.app/](https://my-portfoilio-website.vercel.app/)
 
-- 💬 Ask me about **react, Tailwindcss,**
+- 💬 Ask me about **HTML,CSS, Javascript, react, Tailwindcss, **
 
 - 📫 How to reach me **fedluabdulhakim@gmail.com**
 
