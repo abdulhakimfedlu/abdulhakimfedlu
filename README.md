@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhakimfedlu&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhakimfedlu" /> </p>
 <p align="left"> <a href="https://twitter.com/abdulhakimfedlu" target="blank"><img src="https://img.shields.io/twitter/follow/abdulhakimfedlu?logo=twitter&style=for-the-badge" alt="abdulhakimfedlu" /></a> </p>
-- 👨‍💻 All of my projects are available at [https://my-portfoilio-website.vercel.app/](https://my-portfoilio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at https://my-portfoilio-website.vercel.app/
 
 - 💬 Ask me about **HTML,CSS, Javascript, react, Tailwindcss, **
 
