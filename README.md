@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/abdulhakimfedlu" target="blank"><img src="https://img.shields.io/twitter/follow/abdulhakimfedlu?logo=twitter&style=for-the-badge" alt="abdulhakimfedlu" /></a> </p>
 - 👨‍💻 All of my projects are available at https://my-portfoilio-website.vercel.app/
 
-- 💬 Ask me about **HTML,CSS, Javascript, react, Tailwindcss, **
+- 💬 Ask me about **HTML,CSS, Javascript, react, Tailwindcss, ***
 
 - 📫 How to reach me **fedluabdulhakim@gmail.com**
 
