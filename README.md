@@ -2,7 +2,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Abdulhakim</h1>
 <h3 align="center">A passionate Website and App developer from Ethiopia(MERN STACK) + React Native</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
